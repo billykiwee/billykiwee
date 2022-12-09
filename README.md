@@ -1,16 +1,25 @@
-### Hi there 👋
+### Bonjour Word 👋
 
-<!--
-**billykiwee/billykiwee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenu sur le code source de mon portfolio. Je m'appelle Billy et je suis déveleoppeur passioné depuis 4ans.
 
-Here are some ideas to get you started:
+## Sur ce site vous retrouverez
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Mon profil
+- Les projets que j'ai crées et sur lequels j'ai travailé
+- Mes différent réseaux sociaux et mon mail
+
+
+
+## 🛠 Mes stack
+
+##### 🎨 Front :
+ReactJS, Javascript, Typescript, PHP, HTML/CSS, SCSS
+
+##### ⚙️ Back :
+NodeJS, PHP
+
+##### 📱 Mobile :
+React Native
+
+##### 💾 Database :
+Firebase, MongoDB
