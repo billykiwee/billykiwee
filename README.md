@@ -1,6 +1,6 @@
 # Bonjour Word 👋
 
-Bienvenu sur le code source de mon portfolio. Je m'appelle Billy et je suis déveleoppeur passioné depuis 4ans.
+Je m'appelle Billy et je suis déveleoppeur passioné depuis 4ans et bienvenu sur mon GitHub.
 
 ## Ici vous retrouverez
 
