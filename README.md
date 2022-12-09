@@ -1,4 +1,4 @@
-# Bonjour Word 👋
+# Bonjour World 👋
 
 Je m'appelle Billy et je suis déveleoppeur passioné depuis 4ans et bienvenu sur mon GitHub.
 
