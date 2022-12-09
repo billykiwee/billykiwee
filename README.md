@@ -1,16 +1,16 @@
 # Bonjour World 👋
 
-Je m'appelle Billy et je suis déveleoppeur passioné depuis 4ans et bienvenu sur mon GitHub.
+I'm Billy and i'm a 🇫🇷french front-end developer for 4 years now and welcome to my word !
 
-## Ici vous retrouverez
+## Here you will see
 
-- Mon profil
-- Les projets que j'ai crées et sur lequels j'ai travailé
-- Mes différent réseaux sociaux et mon mail
+- My profil and my resume
+- The projects I created and some I worked on 
+- My social media and all the stuff I do next to code (yeah, it's possible to have a life even as a developer😂)
 
 
 
-## 🛠 Mes stack
+## 🛠 My stacks
 
 ##### 🎨 Front :
 ReactJS, Javascript, Typescript, PHP, HTML/CSS, SCSS
