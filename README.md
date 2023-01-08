@@ -10,7 +10,7 @@ I'm Billy and i'm a 🇫🇷french front-end developer for 4 years now and welco
 
 
 
-# 🛠 My stacks
+## 🛠 My stacks
 
 #### 🎨 Front :
 ReactJS, React Native, Javascript, Typescript, PHP, HTML/CSS, SCSS
