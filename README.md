@@ -10,16 +10,16 @@ I'm Billy and i'm a 🇫🇷french front-end developer for 4 years now and welco
 
 
 
-## 🛠 My stacks
+# 🛠 My stacks
 
-##### 🎨 Front :
-ReactJS, Javascript, Typescript, PHP, HTML/CSS, SCSS
+#### 🎨 Front :
+ReactJS, React Native, Javascript, Typescript, PHP, HTML/CSS, SCSS
 
-##### ⚙️ Back :
+#### ⚙️ Back :
 NodeJS, PHP
 
-##### 📱 Mobile :
+#### 📱 Mobile :
 React Native
 
-##### 💾 Database :
+#### 💾 Database :
 Firebase, MongoDB
